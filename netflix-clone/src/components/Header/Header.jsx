@@ -29,20 +29,14 @@ const Header = () => {
             <li>
               <SearchIcon />
             </li>
-            <li>
-              <p>Kids</p>
-            </li>
+           
             <li>
               <NotificationsNoneIcon />
             </li>
             <li>
               <AccountBoxIcon />
             </li>
-           
-            <li>
-              <ArrowDropDownIcon />
-            </li>
-          </ul>
+                     </ul>
         </div>
       </div>
     </div>
